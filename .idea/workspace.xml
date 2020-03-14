@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c10c1d1-ba5e-4859-996b-578d927dc85d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z5Jt3kYVR5tRvK86TdTdS9222m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gson-2.8.6.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Ex3">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1.Ex1" />
+      <module name="TemaC30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1.Ex1_1" />
+      <module name="TemaC30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2.Ex2" />
+      <module name="TemaC30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3.Ex3" />
+      <module name="TemaC30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex3" />
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1_1" />
+        <item itemvalue="Application.Ex1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c10c1d1-ba5e-4859-996b-578d927dc85d" name="Default Changelist" comment="" />
+      <created>1584123232061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584123232061</updated>
+      <workItem from="1584123234437" duration="1208000" />
+      <workItem from="1584174720647" duration="10767000" />
+      <workItem from="1584189956006" duration="6981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="410" key="FileChooserDialogImpl" timestamp="1584196940768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1076" y="410" key="FileChooserDialogImpl/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584196940768" />
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1584197278876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584197278876" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1584197278876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584197278876" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1584197278876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584197278876" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1584197278876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584197278876" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1584196942353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584196942353" />
+    <state x="665" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584194775578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584194775578" />
+    <state x="342" y="140" key="new project wizard" timestamp="1584124355013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584124355013" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584194994726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.3.1920.1040@0.0.1920.1040" timestamp="1584194994726" />
+  </component>
+</project>

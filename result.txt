@@ -1,0 +1,5 @@
+Shortest word: git
+Longest word: calculator
+First word in alphabetical order: calculator
+Last word in alphabetical order: telefon
+Total number of words: 9
